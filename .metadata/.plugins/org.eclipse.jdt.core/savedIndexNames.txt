@@ -1,0 +1,16 @@
+INDEX VERSION 1.126+G:\Project X\AutoFare\.metadata\.plugins\org.eclipse.jdt.core
+3432942680.index
+1305842037.index
+3151944022.index
+848856923.index
+3627032778.index
+2199528437.index
+3022021197.index
+1284074322.index
+1166646183.index
+3487144731.index
+1056397417.index
+1242926021.index
+464054683.index
+3653441269.index
+539504915.index
